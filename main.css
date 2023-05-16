@@ -38,7 +38,8 @@ body {
     color: black;
 }
 
-.nav-cardapio .nav-link.active {
+.nav-cardapio .nav-link.active,
+#fale-conosco button {
     background-color: #e15f41;
     color: white;
 }
