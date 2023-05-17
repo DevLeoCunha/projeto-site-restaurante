@@ -39,7 +39,8 @@ body {
 }
 
 .nav-cardapio .nav-link.active,
-#fale-conosco button {
+#fale-conosco button,
+footer {
     background-color: #e15f41;
     color: white;
 }
@@ -61,8 +62,4 @@ body {
     .carousel-item img {
         height: 200px;
     }
-}
-
-footer {
-    background-color: #e15f41;
 }
